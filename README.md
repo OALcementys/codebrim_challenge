@@ -50,7 +50,7 @@ Relation  | EMR         | F1 score      | Recall/class
 ----------|-------------|---------------|-------------
 None      |77.53        |89.62          |  89.76
 Fixed     |77.69        |89.60          |  89.65
-Learned   |79.59        | 90.05         |  90.05
+Learned   |79.59        | 90.05         |  88.50
 
 
 Notably, better results were obtained using learnable relations. Our model was able to perform the following performance on the CODEBRIM test set:
