@@ -10,7 +10,7 @@ Rösch, P. J.&  Flotzinger, J. (2022). Building Inspection Toolkit (version: 0.1
 * [Training](https://github.com/OALcementys/codebrim_challenge#Training)
 * [Correspanding matrix](https://github.com/OALcementys/codebrim_challenge#Correspanding_matrix)
 * [Usage](https://github.com/OALcementys/codebrim_challenge#Usage)
-* [Authors](https://github.com/OALcementys/codebrim_challenge#Authors)
+* [Authors & Acknowledgements](https://github.com/OALcementys/codebrim_challenge#Authors)
 
 
 # Dataset
@@ -110,7 +110,7 @@ inference time = 176.00 ms
 - [Otmane Alami Hamedane](https://github.com/OALcementys)
 - [Didier Law Hine](https://github.com/dlh-socotec)
 
-# Acknowledgement
+# Acknowledgements
 This results were obtained during the project SOFIA (artificial intelligence-based monitoring of engineering structures) conducted with the assistance of the French State's Recovery Plan (Plan de Relance) entrusted to the Cerema.
 
 
