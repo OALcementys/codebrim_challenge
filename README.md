@@ -8,7 +8,7 @@ Rösch, P. J.&  Flotzinger, J. (2022). Building Inspection Toolkit (version: 0.1
 * [Dataset](https://github.com/OALcementys/codebrim_challenge#Dataset) 
 * [Model](https://github.com/OALcementys/codebrim_challenge#Model)
 * [Training](https://github.com/OALcementys/codebrim_challenge#Training)
-* [Correspanding_matrix](https://github.com/OALcementys/codebrim_challengey#Correspanding_matrix)
+* [Correspanding_matrix](https://github.com/OALcementys/codebrim_challenge#Correspanding_matrix)
 * [Usage](https://github.com/OALcementys/codebrim_challenge#Usage)
 * [Authors](https://github.com/OALcementys/codebrim_challenge#Authors)
 * [Acknowledgement](https://github.com/OALcementys/codebrim_challenge#Acknowledgement)
