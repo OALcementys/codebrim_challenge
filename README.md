@@ -5,13 +5,13 @@ Rösch, P. J.&  Flotzinger, J. (2022). Building Inspection Toolkit (version: 0.1
 
 # Sections
 
-[Dataset](https://github.com/Android-for-Python/camera4kivy#Dataset)
-[Model](https://github.com/Android-for-Python/camera4kivy#Model)
-[Training](https://github.com/Android-for-Python/camera4kivy#Training)
-[Correspanding_matrix](https://github.com/Android-for-Python/camera4kivy#Correspanding_matrix)
-[Usage](https://github.com/Android-for-Python/camera4kivy#Usage)
-[Authors](https://github.com/Android-for-Python/camera4kivy#Authors)
-[Acknowledgement](https://github.com/Android-for-Python/camera4kivy#Acknowledgement)
+[Dataset](https://github.com/Android-for-Python/camera4kivy#Dataset) \
+[Model](https://github.com/Android-for-Python/camera4kivy#Model)\
+[Training](https://github.com/Android-for-Python/camera4kivy#Training)\
+[Correspanding_matrix](https://github.com/Android-for-Python/camera4kivy#Correspanding_matrix)\
+[Usage](https://github.com/Android-for-Python/camera4kivy#Usage)\
+[Authors](https://github.com/Android-for-Python/camera4kivy#Authors)\
+[Acknowledgement](https://github.com/Android-for-Python/camera4kivy#Acknowledgement)\
 
 
 # Dataset
