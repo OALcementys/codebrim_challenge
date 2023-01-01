@@ -8,9 +8,9 @@ Rösch, P. J.&  Flotzinger, J. (2022). Building Inspection Toolkit (version: 0.1
 [Dataset](https://github.com/Android-for-Python/camera4kivy#Dataset)
 [Model](https://github.com/Android-for-Python/camera4kivy#Model)
 [Training](https://github.com/Android-for-Python/camera4kivy#Training)
-[Correspanding matrix](https://github.com/Android-for-Python/camera4kivy#Correspanding matrix)
+[Correspanding_matrix](https://github.com/Android-for-Python/camera4kivy#Correspanding_matrix)
 [Usage](https://github.com/Android-for-Python/camera4kivy#Usage)
-[Authors](https://github.com/Android-for-Python/camera4kivy#Authors)
+[Authors](https://github.com/Android-for-Python/camera4kivy#Author
 [Acknowledgement](https://github.com/Android-for-Python/camera4kivy#Acknowledgement)
 
 
@@ -33,7 +33,7 @@ The classifier is a simple linear layer. A sigmoid activation function converts 
 To deal with class imbalance, we applied multiple class-balancing tricks regarding the loss, the weight regularization constraints and the parameters freezing.
 We used the original CODEBRIM dataset (no over-sampling).
 
-# Correspanding matrix
+# Correspanding_matrix
 
 The codebrim challenge problem,being a multi-label classification one, we noticed that some classes are dependent of others(for instance spallation deffects are more likely to appear along with exposed bars).
 
