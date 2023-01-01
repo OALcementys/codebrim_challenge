@@ -2,6 +2,24 @@
 This repository was made to attend to the CODEBRIM challenge hosted on "https://dacl.ai/". We highly encourage the readers to visit the following repository for more information on automatic infrastructure inspection. Trained models and infrastructure datasets are available on this reference.
 Rösch, P. J.&  Flotzinger, J. (2022). Building Inspection Toolkit (version: 0.1.4). https://github.com/phiyodr/building-inspection-toolkit/
 
+
+# Sections
+
+[Dataset](https://github.com/Android-for-Python/camera4kivy#Dataset)
+
+[Model](https://github.com/Android-for-Python/camera4kivy#Model)
+
+[Training](https://github.com/Android-for-Python/camera4kivy#Training)
+
+[Correspanding matrix](https://github.com/Android-for-Python/camera4kivy#Correspanding matrix)
+
+[Usage](https://github.com/Android-for-Python/camera4kivy#Usage)
+
+[Authors](https://github.com/Android-for-Python/camera4kivy#Authors)
+
+[Acknowledgement](https://github.com/Android-for-Python/camera4kivy#Acknowledgement)
+
+
 # Dataset
 Codebrim is a multi-classes multi-labels dataset of common infrastructure defects. A balanced version of the dataset is available with additional augmented images in the train dataset.
 
