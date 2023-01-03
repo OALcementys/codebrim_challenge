@@ -36,7 +36,7 @@ We used the original CODEBRIM dataset (no over-sampling).
 
 The codebrim challenge problem, being a multi-label classification one, we noticed that some classes are dependent on others (for example: NoDamage rules out all other defects, BarsExposed appears along with Spalling).
 
-We can include these inter-classes relationships in our trainning process to annihilate impossible class combinations and favor co-dependant classes.
+We can include these inter-classes relationships in our training process to annihilate impossible class combinations and favor co-dependant classes.
 
 Post processing prediction code using relation matrix :
 ```python
