@@ -32,11 +32,11 @@ The classifier is a simple linear layer. A sigmoid activation function converts 
 To deal with class imbalance, we applied multiple class-balancing tricks regarding the loss, the weight regularization constraints and the parameters freezing.
 We used the original CODEBRIM dataset (no over-sampling).
 
-# Correspanding_matrix
+# Relation_matrix
 
-The codebrim challenge problem,being a multi-label classification one, we noticed that some classes are dependent of others(for instance spallation deffects are more likely to appear along with exposed bars).
+The codebrim challenge problem, being a multi-label classification one, we noticed that some classes are dependent of others (for example: NoDamage rules out all other defects, BarsExposed appears along with Spalling).
 
-We can include this interclass relationship in our trainning process in such a way that we annihilate impossible class combinations,favor co-dependant classes and therefore better our results.
+We can include these inter-classes relationships in our trainning process to annihilate impossible class combinations and favor co-dependant classes.
 
 Post processing prediction code using relation matrix :
 ```python
@@ -54,7 +54,7 @@ idx = torch.argmax(maxi, dim=1) #[B]
 # filter prediction with relation corresponding to most confident class
 pred= pred.squeeze(1)*relation[idx,:]
 ```
-Two ways are conceivable to make this process doable. We can either enforce the relationship matrix as a constant entry, or we can learn its parameters along the way.
+The parameters of the inter-classes relationship matrix can either be fixed (infer from expert knowledge) or learnable.
 
 
 Relation  | EMR         | F1 score      | Recall/class
