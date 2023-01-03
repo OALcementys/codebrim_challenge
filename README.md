@@ -41,7 +41,7 @@ We can include these inter-classes relationships in our trainning process to ann
 Post processing prediction code using relation matrix :
 ```python
 ## variables
-# pred : [B, C]
+# pred : [B, 1, C]
 # relation: [C, C]
 
 # cross product of predictions
